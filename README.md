@@ -43,8 +43,6 @@ AI-Smart-Campus-EMS/
 ├── MATLAB/                  # MATLAB simulation scripts
 │   └── Jayanova_Innothon.m  # Main EMS simulation file
 ├── Hardware/                # ESP32 hardware files
-│   ├── firmware/            # Arduino IDE firmware (.ino)
-│   ├── circuit_diagram/     # ESP32 wiring schematic
 │   └── demo_video/          # Hardware working demo
 ├── Results/                 # Simulation outputs and plots
 │   ├── AI_EMS_Dashboard.png # 6-panel KPI dashboard
